@@ -1,4 +1,4 @@
-#####Please reach out to Dikshith Shetty(dishetty@deloitte.com) in case of any issues/questions.########
+#####Please reach out to Dikshith Shetty(dshetty312@gmail.com) in case of any issues/questions.########
 
 1.Download the spark execution engine package and unzip it.You should see something like this assuming the package was extracted in home directory.	
 
